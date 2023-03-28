@@ -1,0 +1,17 @@
+h5py
+imageio
+matplotlib
+numpy
+Pillow
+protobuf
+PyYAML
+scikit-image
+scikit-learn
+scipy
+sklearn
+# torch
+# torchvision
+tqdm
+pandas
+seaborn
+opencv-python==4.1.1.26

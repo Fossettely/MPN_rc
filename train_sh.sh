@@ -1,0 +1,1 @@
+python Train.py --dataset_type ped2 --exp_dir "bn" && shutdown
